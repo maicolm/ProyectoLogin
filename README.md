@@ -116,7 +116,8 @@ Contiene:
   - `sp_RegistrarUsuario`
   - `sp_ValidarUsuario`
 
-Sql
+**Sql**
+
 SELECT * FROM USUARIO
 
 Ejemplo de inserción en SQL Server
