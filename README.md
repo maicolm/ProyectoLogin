@@ -62,31 +62,49 @@ Para generar el hash SHA256 se puede utilizar:
 ## 📁 Estructura del Proyecto
 
 Proyecto/
+
 │
+
 ├── Content/ → Estilos CSS (Bootstrap)
+
 ├── Controllers/
+
 │ ├── AccesoController.cs → Lógica de autenticación
+
 │ └── HomeController.cs → Página principal
 
 │
 ├── Models/
+
 │ └── Usuario.cs → Modelo del usuario
 │
 ├── Permisos/
+
 │ └── ValidarSesionAttribute.cs → Validación de sesión
+
 │
 ├── Scripts/ → Archivos JS (Bootstrap)
+
 │
 ├── Views/
+
 │ ├── Acceso/
+
 │ │ ├── Login.cshtml → Formulario de inicio de sesión
+
 │ │ └── Registrar.cshtml → Formulario de registro
+
 │ └── Home/
+
 │ │ ├── About.cshtml → Página de prueba
+
 │ │ └── Contact.cshtml → Página de prueba
+
 │ │ └── Index.cshtml → Página principal
+
 │
 └── DB_ACCESO.sql → Script SQL (tabla y procedimientos)
+
 
 
 ## 🧾 Script de Base de Datos: `DB_ACCESO.sql`
