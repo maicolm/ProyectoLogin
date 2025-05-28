@@ -14,7 +14,7 @@ namespace ProyectoLogin.Controllers
 {
     public class AccesoController : Controller
     {
-        static string cadena = "Data Source=15-GTI-MRIVERAZ\\SQLEXPRESS;Initial Catalog=DB_ACCESO;Integrated Security=True";
+        static string cadena = "Data Source=TU_SERVIDOR;Initial Catalog=DB_ACCESO;Integrated Security=True";
 
 
 
