@@ -64,9 +64,13 @@ Para generar el hash SHA256 se puede utilizar:
 Proyecto/
 │
 ├── Content/ → Estilos CSS (Bootstrap)
+
 ├── Controllers/
+
 │ ├── AccesoController.cs → Lógica de autenticación
+
 │ └── HomeController.cs → Página principal
+
 │
 ├── Models/
 │ └── Usuario.cs → Modelo del usuario
