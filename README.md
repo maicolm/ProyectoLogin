@@ -116,8 +116,9 @@ Contiene:
   - `sp_RegistrarUsuario`
   - `sp_ValidarUsuario`
 
-```sql
+Sql
 SELECT * FROM USUARIO
+
 Ejemplo de inserción en SQL Server
 
 declare @registrado bit, @mensaje varchar(100)
