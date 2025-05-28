@@ -133,10 +133,17 @@ Configurar cadena de conexión en AccesoController.cs:
 
 static string cadena = "Data Source=TU_SERVIDOR;Initial Catalog=DB_ACCESO;Integrated Security=True";
 
-📩 Contacto
+🤝 Contacto
+Para cualquier consulta técnica o comentario sobre este proyecto:
+
 **Nombre: Maicolm Rivera Zamudio**
 
 **Correo: grupoxpertos@gmail.com**
+
+**LinkedIn: www.linkedin.com/in/maicolm-rivera-9537b6ba**
+
+
+Este proyecto se ha diseñado con fines puramente demostrativos, formando parte de una evaluación técnica y como un ejemplo de la formación continua. El objetivo principal es mostrar las habilidades y capacidades adquiridas, así como demostrar la aplicación de los conocimientos en un contexto práctico. 
 
 **LinkedIn: www.linkedin.com/in/maicolm-rivera-9537b6ba**
 
