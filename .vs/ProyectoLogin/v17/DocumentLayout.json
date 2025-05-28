@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\VISUALNET\\MVC\\ProyectoLogin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39DA579D-4325-488A-B38D-F25AA0083569}|ProyectoLogin\\ProyectoLogin.csproj|c:\\visualnet\\mvc\\proyectologin\\proyectologin\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DA579D-4325-488A-B38D-F25AA0083569}|ProyectoLogin\\ProyectoLogin.csproj|solutionrelative:proyectologin\\controllers\\accesocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DA579D-4325-488A-B38D-F25AA0083569}|ProyectoLogin\\ProyectoLogin.csproj|C:\\VISUALNET\\MVC\\ProyectoLogin\\proyectologin\\views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39DA579D-4325-488A-B38D-F25AA0083569}|ProyectoLogin\\ProyectoLogin.csproj|solutionrelative:proyectologin\\views\\acceso\\registrar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DA579D-4325-488A-B38D-F25AA0083569}|ProyectoLogin\\ProyectoLogin.csproj|C:\\VISUALNET\\MVC\\ProyectoLogin\\proyectologin\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{39DA579D-4325-488A-B38D-F25AA0083569}|ProyectoLogin\\ProyectoLogin.csproj|solutionrelative:proyectologin\\views\\acceso\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39DA579D-4325-488A-B38D-F25AA0083569}|ProyectoLogin\\ProyectoLogin.csproj|C:\\VISUALNET\\MVC\\ProyectoLogin\\proyectologin\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39DA579D-4325-488A-B38D-F25AA0083569}|ProyectoLogin\\ProyectoLogin.csproj|solutionrelative:proyectologin\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Registrar.cshtml",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoLogin\\ProyectoLogin\\Views\\Acceso\\Registrar.cshtml",
+              "RelativeDocumentMoniker": "ProyectoLogin\\Views\\Acceso\\Registrar.cshtml",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoLogin\\ProyectoLogin\\Views\\Acceso\\Registrar.cshtml",
+              "RelativeToolTip": "ProyectoLogin\\Views\\Acceso\\Registrar.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAAC8AAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:01:20.77Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoLogin\\ProyectoLogin\\Views\\Acceso\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProyectoLogin\\Views\\Acceso\\Login.cshtml",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoLogin\\ProyectoLogin\\Views\\Acceso\\Login.cshtml",
+              "RelativeToolTip": "ProyectoLogin\\Views\\Acceso\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-21T17:01:00.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoLogin\\ProyectoLogin\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "ProyectoLogin\\Models\\Usuario.cs",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoLogin\\ProyectoLogin\\Models\\Usuario.cs",
+              "RelativeToolTip": "ProyectoLogin\\Models\\Usuario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:19:12.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccesoController.cs",
+              "DocumentMoniker": "C:\\VISUALNET\\MVC\\ProyectoLogin\\ProyectoLogin\\Controllers\\AccesoController.cs",
+              "RelativeDocumentMoniker": "ProyectoLogin\\Controllers\\AccesoController.cs",
+              "ToolTip": "C:\\VISUALNET\\MVC\\ProyectoLogin\\ProyectoLogin\\Controllers\\AccesoController.cs",
+              "RelativeToolTip": "ProyectoLogin\\Controllers\\AccesoController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAADwvxUAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T16:18:27.579Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
